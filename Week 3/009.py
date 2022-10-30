@@ -32,4 +32,5 @@ def result(total,n1,n2,n3):
     else:
         result += total * 1
     return result
+    
 main()
